@@ -1,0 +1,204 @@
+[
+  {
+    "name": "מבוא למחשבים",
+    "files": [
+      {
+        "name": "מבוא למחשבים.docx"
+      },
+      {
+        "name": "נספח File Explorer וZip.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "ZsrmDT_8vt8" }],
+    "description": "היכרות עם עולם המחשבים וקורסי בסמח",
+    "formLink": "https://forms.gle/bYuVqzpKupzK9X5SA",
+    "hasPit": false
+  },
+  {
+    "name": "מבוא לתכנות",
+    "files": [
+      {
+        "name": "מבוא לתכנות.docx"
+      },
+      {
+        "name": "טיפים לפיתוח קוד נכון.docx"
+      }
+    ],
+    "media": [],
+    "formLink": "https://forms.gle/VBMrox9TpSUCghfn9",
+    "description": "עקרונות וטיפים לכתיבת קוד נכונה",
+    "hasPit": false
+  },
+  {
+    "name": "מבוא לשפת JAVA",
+    "files": [
+      {
+        "name": "מבוא לשפת java.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "N0I2FrnQgKg" }],
+    "formLink": "https://forms.gle/wGScsANWRJJBTnfa9",
+    "description": "היכרות עם שפת java איתה נעבוד לאורך הקורס",
+    "hasPit": false
+  },
+  {
+    "name": "סביבת עבודה intellij IDEA",
+    "files": [
+      {
+        "name": "מדריך להתקנה של intellij.docx"
+      }
+    ],
+    "media": [],
+    "formLink": "",
+    "description": "היכרות עם סביבת העבודה איתה נעבוד לאורך הקורס",
+    "hasPit": false
+  },
+  {
+    "name": "תוכנית בסיסית בJAVAּ",
+    "files": [
+      {
+        "name": "תוכנית בסיסית בJAVA.docx"
+      }
+    ],
+    "media": [],
+    "formLink": "https://forms.gle/EZxEcQR8crXRpptH8",
+    "description": "למידת הסינטקס והמבנה בסיסי של תוכנית בשפה",
+    "hasPit": true
+  },
+  {
+    "name": "משתנים",
+    "files": [
+      {
+        "name": "משתנים.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "F-knc5u9U94" }],
+    "formLink": "https://forms.gle/QnVwsybyuxxaGKYj8",
+    "description": "היכרות עם משתנים, סוגם השונים והעבודה איתם",
+    "hasPit": true
+  },
+  {
+    "name": "אופרטורים וביטויים לוגיים",
+    "files": [
+      {
+        "name": "אופרטורים וביטויים לוגיים.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "CW0eIvut-QQ" }],
+    "formLink": "https://forms.gle/oW5FeM1pK12odnzz5",
+    "description": "שילוב פעולות חשבוניות בקוד והשוואות",
+    "hasPit": true
+  },
+  {
+    "name": "קלט פלט",
+    "files": [
+      {
+        "name": "קלט פלט.docx"
+      },
+      {
+        "name": "הבהרה לגבי טבלת קלט פלט.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "1jWOIOLgONU" }],
+    "formLink": "https://forms.gle/9AV5XckZV9oL6TtD9",
+    "description": "אינטרקציה עם המשתמש, קבלת נתונים והדפסות",
+    "hasPit": true
+  },
+  {
+    "name": "תנאים",
+    "files": [
+      {
+        "name": "תנאים.docx"
+      },
+      {
+        "name": "מקרי ריצה לבדיקה.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "Pr61U0LCkXo" }],
+    "formLink": "https://forms.gle/6Ku6SvEVEZsTNiJB8",
+    "description": "עבודה עם תנאים, תנאים מקוננים וswitch",
+    "hasPit": true
+  },
+  {
+    "name": "דיבאג בסיסי",
+    "files": [
+      {
+        "name": "Debug.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "iZM027JQ5Ig" }],
+    "formLink": "https://forms.gle/ANu3ZF5oc9uJEB7w6",
+    "description": "היכרות עם כלי הדיבאג והאפשרויות שהוא מציע",
+    "hasPit": true
+  },
+  {
+    "name": "לולאות",
+    "files": [
+      {
+        "name": "לולאות.docx"
+      },
+      {
+        "name": "טבלת מקרי בדיקה.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "9MThCb5-644" }],
+    "formLink": "https://forms.gle/hEtx4bmCST2xP4nh6",
+    "description": "מניעת חזרה על קוד, סוגי לולאות ושימוש נכון",
+    "hasPit": true
+  },
+  {
+    "name": "תכנון קוד",
+    "files": [
+      {
+        "name": "תכנון קוד.docx"
+      }
+    ],
+    "media": [],
+    "formLink": "",
+    "description": "תכנון קוד נכון באמצעות הבנת הבעיה ותכנון הפתרון",
+    "hasPit": false
+  },
+  {
+    "name": "פונקציות",
+    "files": [
+      {
+        "name": "פונקציות.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "O5H9G4ishh8" }],
+    "formLink": "",
+    "description": "הפרדת הקוד לחלקים לוגיים ומניעת חזרה על קוד",
+    "hasPit": true
+  },
+  {
+    "name": "סטנדרטים",
+    "files": [
+      {
+        "name": "חוברת סטנדרטים.pdf"
+      },
+      {
+        "name": "תרגול סטנדרטים.docx"
+      }
+    ],
+    "media": [],
+    "formLink": "",
+    "description": "למידת סטנדרטים שישפרו את קריאות והבנת הקוד",
+    "hasPit": true
+  },
+  {
+    "name": "תרגול מסכם לשקי חול",
+    "files": [
+      {
+        "name": "תרגול מסכם שקי חול.docx"
+      },
+      {
+        "name": "טבלת מקרי בדיקה.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "rex3El_A4KM" }],
+    "description": "תרגול מסכם לקורס הרשתי הכולל את כל הנושאים שנלמדו",
+    "isEnd": true,
+    "formLink": "",
+    "hasPit": false
+  }
+]
